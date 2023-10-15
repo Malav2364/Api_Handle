@@ -13,7 +13,7 @@ app.get('/api/products', (req, res)=>{
         },
         {
             id: 2,
-            name: "bed",
+            name: "setbed",
             available: false,
             color: "brown"
         },
